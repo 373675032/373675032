@@ -18,6 +18,6 @@
 ### 仓库统计
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=373675032&?count_private=true&show_icons=true&theme=dracula" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=373675032&layout=compact&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=373675032&?count_private=true&show_icons=true" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=373675032&layout=compact">
 </div>
