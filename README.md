@@ -16,7 +16,7 @@
         	<li><a href="https://space.bilibili.com/301320288"> B站：[薛伟同学]</a></li>
         	<li><a href="mailto:isxuewei@qq.com"> 邮箱：isxuewei@qq.com</a></li>
         	<li><a href="http://xuewei.world/"> 博客：[薛伟的博客]</a></li>
-        	<li><a href="#"> 微信公众号：薛伟同学</a></li>
+        	<li><a href="JavaScript:function(){alert(123)}"> 微信公众号：薛伟同学</a></li>
         </ul>
 	</span>
 	<span style="width: 50%">
