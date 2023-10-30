@@ -21,3 +21,15 @@
     <img src="https://github-readme-stats.vercel.app/api?username=373675032&?count_private=true&show_icons=true" style="margin-right: 10px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=373675032&layout=compact">
 </div>
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'image1')">Image 1</button>
+  <button class="tablinks" onclick="openTab(event, 'image2')">Image 2</button>
+</div>
+
+<div id="image1" class="tabcontent">
+  <img src="https://github-readme-stats.vercel.app/api?username=373675032&?count_private=true&show_icons=true" alt="Image 1">
+</div>
+
+<div id="image2" class="tabcontent">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=373675032&layout=compact" alt="Image 3">
+</div>
