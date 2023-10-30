@@ -9,16 +9,24 @@
 我认为学习的最好方式就是应用实战，实践是检验真理的唯一标准！在学习期间我先后开发过 **📁网盘系统**、**💬社区论坛**、**📔学术报告管理系统**、**💝慈善公益平台**、**素材分享平台**、**☕咖啡商城系统**、**🏠房屋租赁系统**、**🏥医疗问诊系统** ...
 
 ### 联系我
-- B站：[薛伟同学](https://space.bilibili.com/301320288)
-- 个人博客：[薛伟的博客](http://xuewei.world/)
-- 微信公众号：薛伟同学
 
-[<img style="width: 200px;border-radius: 50px" src="https://xuewei-blog.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_60278d1f57de_344.jpg">]()
+<div style="display: flex; flex-wrap: wrap;">
+	<span style="width: 50%">
+	    <ul>
+        	<li><a href="https://space.bilibili.com/301320288"> B站：[薛伟同学]</a></li>
+        	<li><a href="mailto:isxuewei@qq.com"> 邮箱：isxuewei@qq.com</a></li>
+        	<li><a href="http://xuewei.world/"> 博客：[薛伟的博客]</a></li>
+        	<li><a href="javascript:alert('请扫描右侧二维码')"> 微信公众号：薛伟同学</a></li>
+        </ul>
+	</span>
+	<span style="width: 50%">
+		<img style="width: 150px;border-radius: 50px" src="https://xuewei-blog.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_60278d1f57de_344.jpg">
+	</span>
+</div>
 
 ### 仓库统计
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=373675032&?count_private=true&show_icons=true&hide=contribs&layout=donut-vertical&card_width=400" style="margin-right: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=373675032&layout=compact&card_width=400">
+    <img src="https://github-readme-stats.vercel.app/api?username=373675032&?count_private=true&show_icons=true&hide=contribs&layout=donut-vertical&card_width=450" style="margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=373675032&layout=compact&card_width=450">
 </div>
-
