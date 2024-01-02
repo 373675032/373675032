@@ -23,25 +23,6 @@
 
 这些系统已全部免费开源在我的 Github！
 
-### 联系我📱
-
-- [B站：[薛伟同学]](https://space.bilibili.com/301320288)
-
-- [邮箱：[isxuewei@qq.com]](mailto:isxuewei@qq.com)
-
-- [博客：[薛伟的博客]](http://xuewei.world)
-
-- [微信公众号：[薛伟同学]](#)
-
-  [<img style="width: 150px;border-radius: 50px" src="https://xuewei-blog.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_60278d1f57de_344.jpg">]()
-
-
-### 仓库统计📊
-
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=373675032&?count_private=true&show_icons=true&hide=contribs&layout=donut-vertical&card_width=400&cache_seconds=14400" style="margin-right: 10px;">
-</div>
-
 ### 他人评价
 
 - 【公司领导 - 研发部总裁A】：做事认真、踏实，富有创新力，技术能力过硬，善于钻研，能主动解决各种难题，善于帮助他人，并能带动身边的人，在工作中能够出色的完成任务，而且往往可以超出预期。
