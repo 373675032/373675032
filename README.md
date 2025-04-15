@@ -12,19 +12,6 @@
 
 我认为学习的最好方式就是应用实战，实践是检验真理的唯一标准！在学习期间我先后开发过以下系统：
 
-- **[📁在线网盘系统](https://github.com/373675032/moti-cloud)**
-- **[💬社区论坛系统](https://github.com/373675032/molihub)**
-- **[💝慈善公益平台](https://github.com/373675032/love-charity)**
-- **[🌁素材分享平台](https://github.com/373675032/su-share)**
-- **[🏠房屋租赁系统](https://github.com/373675032/verio-house)**
-- **[🏥智慧医药系统](https://github.com/373675032/smart-medicine)** 
-- **[📔学术报告系统](https://github.com/373675032/academic-report)**
-- **[☕咖啡商城系统](https://github.com/373675032/kaka-shop)**
-
-这些系统已全部免费开源在我的 Github！
-
-
-
 <picture>
   <source
     srcset="https://github-readme-stats-one-bice.vercel.app/api?username=373675032&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
@@ -36,28 +23,17 @@
     align="right" />
 </picture>
 
-- 👋 Hi, I’m @373675032
-- 💻 Software Engineer
-- 🕸 Full-Stack Web Developer
-- ☕️ Inide Hacker
-- 👀 Learning AI Related
-- 📷 Interested in Photography
-- 📍 Living in Shenzhen, China
-- 📫 Reach me - **373675032chiu@gmail.com**
-- 🌍 My Products
-  - [Corey Chiu](https://coreychiu.com)
-  - [AI Best Tools](https://aibest.tools)
-  - [Best Directories](https://bestdirectories.org)
-  - [MagicBox](https://magicbox.tools)
-  - [轻息](https://apps.apple.com/us/app/auram/id6742171445)
+- **[📁在线网盘系统](https://github.com/373675032/moti-cloud)**
+- **[💬社区论坛系统](https://github.com/373675032/molihub)**
+- **[💝慈善公益平台](https://github.com/373675032/love-charity)**
+- **[🌁素材分享平台](https://github.com/373675032/su-share)**
+- **[🏠房屋租赁系统](https://github.com/373675032/verio-house)**
+- **[🏥智慧医药系统](https://github.com/373675032/smart-medicine)** 
+- **[📔学术报告系统](https://github.com/373675032/academic-report)**
+- **[☕咖啡商城系统](https://github.com/373675032/kaka-shop)**
 
-<!---
-373675032/373675032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+这些系统已全部免费开源在我的 Github！
 
-
-  <!-- snake contribution -->
    <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-contribution-snake/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-contribution-snake/github-contribution-grid-snake.svg" />
