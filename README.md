@@ -27,23 +27,23 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=iAmCorey&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=373675032&show_icons=true&icon_color=0366d6&bg_color=ffffff&theme=github_dark&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=iAmCorey&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+    srcset="https://github-readme-stats-one-bice.vercel.app/api?username=373675032&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=iAmCorey&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=373675032&show_icons=true&icon_color=0366d6&bg_color=ffffff&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
     align="right" />
 </picture>
 
-- 👋 Hi, I’m @iAmCorey
+- 👋 Hi, I’m @373675032
 - 💻 Software Engineer
 - 🕸 Full-Stack Web Developer
 - ☕️ Inide Hacker
 - 👀 Learning AI Related
 - 📷 Interested in Photography
 - 📍 Living in Shenzhen, China
-- 📫 Reach me - **iamcoreychiu@gmail.com**
+- 📫 Reach me - **373675032chiu@gmail.com**
 - 🌍 My Products
   - [Corey Chiu](https://coreychiu.com)
   - [AI Best Tools](https://aibest.tools)
@@ -52,7 +52,7 @@
   - [轻息](https://apps.apple.com/us/app/auram/id6742171445)
 
 <!---
-iAmCorey/iAmCorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+373675032/373675032 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
